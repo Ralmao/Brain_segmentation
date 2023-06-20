@@ -1,5 +1,5 @@
 Brain_segmentation
-Class Brain segmentation AI with a neural networks
+Project Master Class Brain segmentation AI with a neural networks
 Libraries:
 import pandas as pd
 import numpy as np
