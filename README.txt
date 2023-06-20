@@ -26,3 +26,4 @@ import glob
 import random
 from google.colab import files #Librería para cargar ficheros directamente en Colab
 %matplotlib inline
+link : https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
